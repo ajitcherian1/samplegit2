@@ -1,3 +1,3 @@
 # samplegit2
 this is sample repository
-change made successful
+change made successful 2
